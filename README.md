@@ -9,3 +9,4 @@ O(f(n)) = n^4
 
 Хм, походит на правду!
 ![image](https://user-images.githubusercontent.com/92951189/142605390-8d636eb0-a8f6-41ca-9ed8-27e18583263c.png)
+И графики красивые)
