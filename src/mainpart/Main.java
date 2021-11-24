@@ -17,7 +17,6 @@ public class Main {
             long startTime = System.currentTimeMillis();
             queue = ms.mergeSort();
             long timeEnd = System.currentTimeMillis();
-            queue.printQueue();
             System.out.println("Время выполнения сортировки: " + (timeEnd - startTime) + " ms" + " Количество элементов: " + N + " Количество операций: " + nOp);
             System.out.println();
             N+=300;
